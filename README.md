@@ -7,7 +7,9 @@
 
 <!-- Summary/Bio Section -->
 👩‍🎓 2nd Year Computer Science Student at Orange Coast College
+
 👩🏻‍💻 Working on the AI4FinancialGood Challenge by Girls Who Code
+
 📚 Currently learning about open source through making contributions
 
 ---
