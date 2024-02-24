@@ -7,12 +7,17 @@
 
 👩🏻‍💻 Working on the AI4FinancialGood Challenge by Girls Who Code
 
-📚 Currently learning about open source through making contributions
+📚 Learning about open source through making contributions
 
 ---
 
 <!--GitHub Stats Section -->
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+<!-- # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=huynhkatrina&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-profile-trophy.vercel.app/?username=huynhkatrina&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)-->
 
 <!-- Skills and Technologies Section -->
 ### Skills and Technologies
@@ -27,6 +32,9 @@
 
 <!-- Top Projects Section -->
 
-<!-- Top Contributions Section -->
+<!-- Top Contributed Repo Section -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=huynhkatrina&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) -->
 
 <!-- Socials/Contact Info Section -->
+<!-- ## 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/katrina-huynh-csocc/) -->
