@@ -1,8 +1,5 @@
 <!-- Introduction Section -->
 # Hi, I'm Katrina! ✨
-
----
-
 **`Computer Science Student`**
 
 <!-- Summary/Bio Section -->
