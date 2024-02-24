@@ -1,21 +1,33 @@
-<!-- template from ForrestKnight -->
-# Hi, I'm Katrina
-
-**`Computer Science Student`**
-
-I'm a second year computer science student at Orange Coast College. Currently, I am working on building my portfolio through projects and open source contributions.
+<!-- Introduction Section -->
+# Hi, I'm Katrina! ✨
 
 ---
 
-### Languages and Tools
+**`Computer Science Student`**
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<br />
+<!-- Summary/Bio Section -->
+👩‍🎓 2nd Year Computer Science Student at Orange Coast College
+👩🏻‍💻 Working on the AI4FinancialGood Challenge by Girls Who Code
+📚 Currently learning about open source through making contributions
+
+---
+
+<!--GitHub Stats Section -->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+
+<!-- Skills and Technologies Section -->
+### Skills and Technologies
+
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+<!-- Top Projects Section -->
+
+<!-- Top Contributions Section -->
+
+<!-- Socials/Contact Info Section -->
