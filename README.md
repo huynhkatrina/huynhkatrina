@@ -12,13 +12,13 @@
 ---
 
 <!--GitHub Stats Section -->
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats -->
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=huynhkatrina&theme=tokyonight&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-![](https://github-profile-trophy.vercel.app/?username=huynhkatrina&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
+<!-- ![](https://github-readme-stats.vercel.app/api?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=huynhkatrina&theme=tokyonight&hide_border=false)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=huynhkatrina&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=huynhkatrina&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4) -->
 
 <!-- Skills and Technologies Section -->
 ### 💻 Skills and Technologies
