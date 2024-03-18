@@ -5,7 +5,7 @@
 <!-- Summary/Bio Section -->
 👩‍🎓 2nd Year Computer Science Student at Orange Coast College
 
-👩🏻‍💻 Just finished the AI4FinancialGood Challenge by Girls Who Code
+👩🏻‍💻 Currently working on a portfolio website using React
 
 📚 Learning about open source through making contributions
 
