@@ -3,9 +3,9 @@
 **`Computer Science Student`**
 
 <!-- Summary/Bio Section -->
-👩‍🎓 2nd Year Computer Science Student at Orange Coast College
+👩‍🎓 3rd Year Computer Science Student at University of California, Irvine
 
-👩🏻‍💻 Currently working on a portfolio website using React
+<!-- 👩🏻‍💻 Currently working on a portfolio website using React -->
 
 📚 Learning about open source through making contributions
 
