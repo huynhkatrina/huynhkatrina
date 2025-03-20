@@ -5,10 +5,6 @@
 <!-- Summary/Bio Section -->
 👩‍🎓 3rd Year Computer Science Student at University of California, Irvine
 
-<!-- 👩🏻‍💻 Currently working on a portfolio website using React -->
-
-📚 Learning about open source through making contributions
-
 ---
 
 <!--GitHub Stats Section -->
